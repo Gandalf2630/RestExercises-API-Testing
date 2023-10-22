@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Obligatorisk opgave 1 Programmering og Teknologi">
+      <HintPath>..\..\Obligatorisk opgave 1 Programmering og Teknologi\Obligatorisk opgave 1 Programmering og Teknologi\bin\Debug\net6.0\Obligatorisk opgave 1 Programmering og Teknologi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
